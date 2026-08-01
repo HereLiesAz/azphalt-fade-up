@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "The plain one: each word fades in as it rises the last few pixels into place.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
